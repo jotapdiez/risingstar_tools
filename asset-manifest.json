@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/risingstar_tools/static/css/main.65ebb088.chunk.css",
-    "main.js": "/risingstar_tools/static/js/main.6dad3dac.chunk.js",
-    "main.js.map": "/risingstar_tools/static/js/main.6dad3dac.chunk.js.map",
+    "main.css": "/risingstar_tools/static/css/main.c517af7d.chunk.css",
+    "main.js": "/risingstar_tools/static/js/main.b0179619.chunk.js",
+    "main.js.map": "/risingstar_tools/static/js/main.b0179619.chunk.js.map",
     "runtime-main.js": "/risingstar_tools/static/js/runtime-main.fd0b791e.js",
     "runtime-main.js.map": "/risingstar_tools/static/js/runtime-main.fd0b791e.js.map",
     "static/css/2.6412f97d.chunk.css": "/risingstar_tools/static/css/2.6412f97d.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.1dcb52cb.chunk.js.map": "/risingstar_tools/static/js/3.1dcb52cb.chunk.js.map",
     "index.html": "/risingstar_tools/index.html",
     "static/css/2.6412f97d.chunk.css.map": "/risingstar_tools/static/css/2.6412f97d.chunk.css.map",
-    "static/css/main.65ebb088.chunk.css.map": "/risingstar_tools/static/css/main.65ebb088.chunk.css.map",
+    "static/css/main.c517af7d.chunk.css.map": "/risingstar_tools/static/css/main.c517af7d.chunk.css.map",
     "static/js/2.dbfa7134.chunk.js.LICENSE.txt": "/risingstar_tools/static/js/2.dbfa7134.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fd0b791e.js",
     "static/css/2.6412f97d.chunk.css",
     "static/js/2.dbfa7134.chunk.js",
-    "static/css/main.65ebb088.chunk.css",
-    "static/js/main.6dad3dac.chunk.js"
+    "static/css/main.c517af7d.chunk.css",
+    "static/js/main.b0179619.chunk.js"
   ]
 }
