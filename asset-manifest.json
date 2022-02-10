@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/risingstar_tools/static/css/main.1b33791c.chunk.css",
-    "main.js": "/risingstar_tools/static/js/main.4c494a85.chunk.js",
-    "main.js.map": "/risingstar_tools/static/js/main.4c494a85.chunk.js.map",
+    "main.js": "/risingstar_tools/static/js/main.d5dddd1c.chunk.js",
+    "main.js.map": "/risingstar_tools/static/js/main.d5dddd1c.chunk.js.map",
     "runtime-main.js": "/risingstar_tools/static/js/runtime-main.5caa3774.js",
     "runtime-main.js.map": "/risingstar_tools/static/js/runtime-main.5caa3774.js.map",
     "static/css/2.6412f97d.chunk.css": "/risingstar_tools/static/css/2.6412f97d.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.6412f97d.chunk.css",
     "static/js/2.fec28f66.chunk.js",
     "static/css/main.1b33791c.chunk.css",
-    "static/js/main.4c494a85.chunk.js"
+    "static/js/main.d5dddd1c.chunk.js"
   ]
 }
